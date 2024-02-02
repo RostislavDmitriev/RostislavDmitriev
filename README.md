@@ -14,8 +14,8 @@ I'm a guy who is passionate about data and its analysis. All projects are made t
 ### Languages and Tools
 
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="img/sheets.png" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />" />
-<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />" 
+<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />"
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="img/tableau.png"  />
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="img/power-bi.png"  />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
