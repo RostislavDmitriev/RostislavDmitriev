@@ -1,6 +1,6 @@
 # Rostislav Dmitriev
 
-I'm a guy who is passionate about data and its analysis. All projects are made thanks to the interest in the questions "How to benefit from this data?" and finding answers through analysis and decision-making. I believe that analysis can solve many problems.
+I'm a guy who is passionate about data and its analysis. All projects are made thanks to the interest in the questions and finding answers through analysis and decision-making. I believe that analysis can solve many problems.
 
    <p align="left">
       <a href="https://github.com/RostislavDmitriev?tab=followers">
