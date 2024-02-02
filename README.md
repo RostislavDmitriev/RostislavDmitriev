@@ -9,7 +9,6 @@ I'm a guy who is passionate about data and its analysis. All projects are made t
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RostislavDmitriev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
 
 ### Languages and Tools
 
@@ -20,3 +19,9 @@ I'm a guy who is passionate about data and its analysis. All projects are made t
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="img/power-bi.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
+
+### Stats
+
+![Rostislav GitHub stats](https://github-readme-stats.vercel.app/api?username=RostislavDmitriev&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=RostislavDmitriev&theme=gruvbox&border_radius=4.5) -->
