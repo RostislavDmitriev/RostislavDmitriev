@@ -24,6 +24,6 @@ I'm a guy who is passionate about data and its analysis. All projects are made t
 
 ### Stats
 
-![Rostislav GitHub stats](https://github-readme-stats.vercel.app/api?username=RostislavDmitriev&show_icons=true&theme=cobalt)
+![Rostislav GitHub stats](https://github-readme-stats.vercel.app/api?username=RostislavDmitriev&show_icons=true&theme=tokyonight)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=RostislavDmitriev&theme=cobalt&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=RostislavDmitriev&theme=tokyonight&border_radius=4.5) -->
